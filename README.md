@@ -12,8 +12,12 @@ A powerful web-based application built using **Streamlit** that brings together 
 ### 1. Object Detection with Grounding DINO
 - Detect and locate objects in images using natural language prompts.
 - Combines DINO and Grounding capabilities for zero-shot object detection.
-![Screenshot (93)](https://github.com/user-attachments/assets/572be761-2547-40ad-b51c-5df!4cc51146f)
-[Screenshot (120)](https://github.com/user-attachments/assets/8da5f94c-3f95-44be-97f0-c5095c8feeb6)
+
+
+![Screenshot (93)](https://github.com/user-attachments/assets/39b04672-d8fa-45dd-9d62-a8322fca6f39)
+![Screenshot (120)](https://github.com/user-attachments/assets/b3aa2092-9041-4921-8740-c1f9c4da583f)
+
+
 
 ### 2. Low-Light Image Enhancer
 - Improve visibility and quality of images captured in low-light conditions.
@@ -30,7 +34,8 @@ A powerful web-based application built using **Streamlit** that brings together 
 ### 4. Segment Anything Model (SAM)
 - Interactive image segmentation with just a click or bounding box.
 - Offers precise object-level segmentation for any region in an image.
-![Screenshot (100)](https://github.com/user-attachments/assets/451d894d-855b-4350-a385-4c211c8b4db0)
+
+![Screenshot (101)](https://github.com/user-attachments/assets/ec22638a-eb45-4df4-9f5f-9dcf16ce0771)
 
 
 #  Tech Stack
