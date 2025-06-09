@@ -44,6 +44,6 @@ A powerful web-based application built using **Streamlit** that brings together 
 - **Object Detection:** [Grounding DINO](https://github.com/IDEA-Research/GroundingDINO)
 - **Enhancement:** Deep learning-based low-light enhancement model
 - **Segmentation:** [Segment Anything Model (SAM)](https://github.com/facebookresearch/segment-anything)
-- **Background Removal:** U-2-Net or similar semantic segmentation model
+- **Background Removal:** U-2-Net semantic segmentation model
 
 
